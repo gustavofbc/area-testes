@@ -7,3 +7,5 @@
 - Um teste é feito com base em um resultado ESPERADO (EXPECTED) vs o resultado obtido (RESULT)
 
 - TDD e TESTES são coisas diferentes!
+
+
